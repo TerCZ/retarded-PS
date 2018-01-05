@@ -1,6 +1,6 @@
 # retarded-PS 
 
-by Chuzhe Tang
+![screenshot of retarded-PS](screenshot.png)
 
 This is a course project, a utterly retarded digital image processing tool for SE342 Computer Vision @ SJTU.
 
